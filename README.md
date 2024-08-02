@@ -44,5 +44,6 @@ N/A
 
 ## Deployment
 
-Github Repo: 
+Github Repo: https://github.com/ParthKapadia2207/E-Commerce
+
 Demo Video:
